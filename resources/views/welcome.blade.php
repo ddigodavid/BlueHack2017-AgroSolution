@@ -89,7 +89,7 @@
                 <img src="/assets/img/iot.png"
                      class="img-set" />
                 <h3>IOT</h3>
-                <hr /
+                <hr />
                 <p>
                     Todas mercadorias analisadas durante todac cadeia produtiva até o descarte das embalagens
                 </p>
@@ -99,7 +99,7 @@
                 <img src="/assets/img/chatbot.png"
                      class="img-set" />
                 <h3>CHATBOT</h3>
-                <hr /
+                <hr />
                 <p>
                     Todo processo pode ser analisado e consultato a todo momento por Chatbot
                 </p>
