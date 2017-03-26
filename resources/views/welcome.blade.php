@@ -38,6 +38,7 @@
                 <li><a href="#home-sec">Home</a></li>
                 <li><a href="#features-sec">Projeto</a></li>
                 <li><a href="#advance-sec">Serviços</a></li>
+                <li><a href="{{ url('/chart-demo') }}">Demo - Blockchains Chart</a></li>
             </ul>
         </div>
     

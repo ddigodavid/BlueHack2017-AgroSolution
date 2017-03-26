@@ -35,17 +35,103 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#home-sec">Home</a></li>
-                <li><a href="#features-sec">Projeto</a></li>
-                <li><a href="#advance-sec">Serviços</a></li>
+                <li><a href="{{ url('/') }}">Home</a></li>
+                <li><a href="{{ url('/') }}">Projeto</a></li>
+                <li><a href="{{ url('/') }}">Serviços</a></li>
             </ul>
         </div>
     
     </div>
 </div>
-<div id="just-sec" style="min-height: 70vh;">
+<div id="just-sec">
     <div class="overlay">
         Demonstração
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <h1>Carne Produto X</h1>
+            <div class="row">
+                <div class="col-sm-12">
+                    <ul class="list-group">
+                        <li class="list-group-item">
+                            <span class="badge">14:12</span>
+                            <span class="text-success">
+                                Cabeça de gado despachado para abatedouro
+                                <br>
+                                <strong>Origem:</strong> Sorocaba / <strong>Destino:</strong> São Paulo</span>
+                        </li>
+                        <li class="list-group-item">
+                            <span class="badge">15:34</span>
+                            <span class="text-success">
+                                Cabeça de gado - Entrada no abatedouro -> Compania Z
+                                <br>
+                                <strong>Origem:</strong> Sorocaba / <strong>Destino:</strong> São Paulo</span>
+                        </li>
+                        <li class="list-group-item">
+                            <span class="badge">16:00</span>
+                            <span class="text-success">
+                                Contra Filé despachado do abatedouro pra o Centro de Distribuição
+                                <br>
+                                <strong>Origem:</strong> São Paulo / <strong>Destino:</strong> São Paulo</span>
+                        </li>
+                        <li class="list-group-item">
+                            <span class="badge">16:25</span>
+                            <span class="text-success">
+                                Leva de Contra Filé deu entrada no Centro de Distribuição
+                                <br>
+                                <strong>Origem:</strong> São Paulo / <strong>Destino:</strong> São Paulo</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <h1 class="pull-right">Carne Produto Y</h1>
+            <div class="row">
+                <div class="col-sm-12">
+                    <ul class="list-group">
+                        <li class="list-group-item">
+                            <span class="badge">14:12</span>
+                            <span class="text-success">
+                                Cabeça de gado despachado para abatedouro
+                                <br>
+                                <strong>Origem:</strong> Sorocaba / <strong>Destino:</strong> São Paulo</span>
+                        </li>
+                        <li class="list-group-item">
+                            <span class="badge">15:34</span>
+                            <span class="text-success">
+                                Cabeça de gado - Entrada no abatedouro -> Compania Z
+                                <br>
+                                <strong>Origem:</strong> Sorocaba / <strong>Destino:</strong> São Paulo</span>
+                        </li>
+                        <li class="list-group-item">
+                            <span class="badge">16:00</span>
+                            <span class="text-success">
+                                Contra Filé despachado do abatedouro pra o Centro de Distribuição
+                                <br>
+                                <strong>Origem:</strong> São Paulo / <strong>Destino:</strong> São Paulo</span>
+                        </li>
+                        <li class="list-group-item">
+                            <span class="badge">15:09</span>
+                            <span class="text-warning">
+                                Cabeça de gado - Frigorifico foi aberto durante processo de transporte
+                                <br>
+                                <strong>Origem:</strong> Sorocaba / <strong>Destino:</strong> São Paulo</span>
+                        </li>
+                        <li class="list-group-item">
+                            <span class="badge">16:25</span>
+                            <span class="text-success">
+                                Leva de Contra Filé deu entrada no Centro de Distribuição
+                                <br>
+                                <strong>Origem:</strong> São Paulo / <strong>Destino:</strong> São Paulo</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 <div id="just-sec" style="">
