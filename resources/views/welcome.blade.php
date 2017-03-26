@@ -50,7 +50,7 @@
             <div class="col-md-8 pad-top scrollclass">
                 
                 <h1>
-                    <strong>BLOCKACHAIN no AGRO é o futuro do campo</strong>
+                    <strong>BLOCKCHAINS no AGRO é o futuro do campo</strong>
                 </h1>
                 <p class="home-p">
                 
@@ -77,10 +77,10 @@
         <div class="row">
             <div class="col-md-4 text-center">
                 <img src="/assets/img/blockchain2.jpeg" class="img-set" />
-                <h3>BLOCKCHAIN</h3>
+                <h3>BLOCKCHAINS</h3>
                 <hr/>
                 <p>
-                    Todas mercadorias são validadas e totalmente seguradas com blockchain
+                    Todas mercadorias são validadas e totalmente seguradas com blockchains
                 </p>
             </div>
             
